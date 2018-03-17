@@ -3,11 +3,11 @@
     <head>
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta charset="utf-8">
-	    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta charset="utf-8">
-        <meta name="description" content="">
-        <meta name="author" content="">
-        <title></title>
+        <meta name="description" content="Gym Website">
+        <meta name="author" content="Manohar">
+        <title>Neptua | Gym</title>
 
         <!-- Bootstrap core CSS -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
